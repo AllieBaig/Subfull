@@ -1,0 +1,6 @@
+{
+  "name": "Subliminal Player",
+  "description": "A self-healing, offline-first mindfulness audio player with App Intelligence and Pitch Safe Mode. Optimized for stable background playback on iPhone 8 and legacy devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
